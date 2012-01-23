@@ -1,1 +1,12 @@
 Ejemplos de como usar ZeroMQ en ruby y otros lenguajes.
+
+
+¿Que necesitas para comenzar?
+  Linux (de momento con windows no lo he probado,la gema de zeromq no la pude hacer funcionar en windows)
+  Ruby 1.9.1
+  ZeroMQ compilado e instalado: http://www.zeromq.org/intro:get-the-software
+  Gem de ZeroMQ: gem install zmq
+
+Los ejemplos son para iniciarlos desde la linea de comandos, son bastantes sencillos para demostrar algunas de las funcionalidades de ZeroMQ.
+
+
